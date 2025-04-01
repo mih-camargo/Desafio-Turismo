@@ -1,0 +1,114 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+:root{
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 300%;
+}
+
+
+
+
+.palavra_destaque_vermelho{
+    color: #E1624F;
+    font-size: 11px;
+}
+
+
+
+
+.letra_marcada_azul{
+    color: #0C51A7;
+}
+
+
+
+
+img{
+    border-radius: 16px;
+    width: 1100px;
+   
+}
+
+
+
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+
+}
+
+
+
+
+.letra_marcada_roxo{
+    color: blueviolet;
+}
+
+
+.letra_marcada_rosa{
+    color: crimson;
+}
+
+
+
+.letra_marcada_laranja{
+    color: orangered;
+}
+
+
+footer{
+    justify-content: center;
+    align-items: flex-end;
+    justify-content: space-around;
+    padding-bottom: 5px;
+    
+    
+}
+
+img{
+    border-radius: 16px;
+}
+
+.coração_rodape{
+    width: 30px;
+    height: 10px;
+
+}
+
+
+.texto_centralizado{
+    text-align: center;
+
+   
+}
+
+
+footer{
+    margin-top: 65px;
+}
+
+
+.primeiro{
+    margin-bottom: 60px;
+
+}
+
+
+.segundo {
+    margin-top: 50px;
+}
+
+
+
+.container_principal{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
